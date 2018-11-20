@@ -1,6 +1,6 @@
 # my-vue-app
 
-> A Vue.js project
+> A Vue.js project for creating customizable layouts
 
 ## Build Setup
 
